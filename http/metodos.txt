@@ -1,0 +1,4 @@
+$_GET : Pega o arquivo pelo http
+$_POST : Inseri registro
+PUT : Altera registro
+DELETE : Remove registro
